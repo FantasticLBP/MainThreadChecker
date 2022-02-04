@@ -1,0 +1,22 @@
+{
+  "name": "MainThreadChecker",
+  "version": "0.1.0",
+  "summary": "A short description of MainThreadChecker.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LiuBinPeng/MainThreadChecker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LiuBinPeng": "liubinpeng@youzan.com"
+  },
+  "source": {
+    "git": "https://github.com/LiuBinPeng/MainThreadChecker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MainThreadChecker/Classes/**/*"
+}

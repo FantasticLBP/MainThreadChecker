@@ -1,0 +1,16 @@
+PODS:
+  - MainThreadChecker (0.1.0)
+
+DEPENDENCIES:
+  - MainThreadChecker (from `../`)
+
+EXTERNAL SOURCES:
+  MainThreadChecker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MainThreadChecker: c9a5e9f3d03ef4430669199a5075a18273e0a31c
+
+PODFILE CHECKSUM: 29143f8002067375f94ba67330c8ab52a344d4d2
+
+COCOAPODS: 1.10.1

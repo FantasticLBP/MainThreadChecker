@@ -1,0 +1,6 @@
+framework module MainThreadChecker {
+  umbrella header "MainThreadChecker-umbrella.h"
+
+  export *
+  module * { export * }
+}
